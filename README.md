@@ -1,5 +1,5 @@
-# special
-First git repository
+# LAZAREV
+First git public project
 <br> 
 For ui/ux practice (LAZAREV CLONE)
 <br>
